@@ -1,6 +1,9 @@
 # Shuffle and Sort app
 
 Shuffle and Sort boxes
+![alt text](ui-brief.jpg "Brief")
+
+
 
 ## Getting Started
 
